@@ -28,7 +28,7 @@ Attention Dense Net and the data preprocessing/augmentation methods are derived 
 
 
 
-The ULA subset of the nomadic dataset from https://ieee-dataport.org/open-access/ultra-dense-indoor-mamimo-csi-dataset is used as data. Download and place the `nomadic\_dataset` directory under `data/` (resulting in `data/nomadic\_dataset/ULA\_lab\_LoS`).
+The ULA subset of the nomadic dataset from https://ieee-dataport.org/open-access/ultra-dense-indoor-mamimo-csi-dataset is used as data. Download and place the `nomadic\_dataset` directory under `data/` (resulting in `data/nomadic_dataset/ULA_lab_LoS`).
 
 Use `pip install -r requirements.txt` to prepare a virtual environment for running the repository.
 
