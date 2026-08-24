@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/671119227431703648/8a8e0a8a59404e889865024b65f0cc54/artifacts
+end_time: 1787574974364
+entry_point_name: ''
+experiment_id: '671119227431703648'
+lifecycle_stage: active
+run_id: 8a8e0a8a59404e889865024b65f0cc54
+run_name: unified_conformal_experiments-CQR
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787574962169
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/671119227431703648/d730a45c40b24108962446d7c0ac600f/artifacts
+end_time: 1787574977843
+entry_point_name: ''
+experiment_id: '671119227431703648'
+lifecycle_stage: active
+run_id: d730a45c40b24108962446d7c0ac600f
+run_name: single_sample_CQR_pooled_scenarios
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787574974558
+status: 3
+tags: []
+user_id: User
