@@ -7,17 +7,8 @@ uncertainty-quantification workflows used in the 6G-DALI work.
 
 The current package is designed for Python 3.10+.
 
-### 1.1 Recommended installation in a virtual environment
-
-Activate the environment that will be used by the MLOps workflow.
-
-On Windows/Anaconda:
-
-``` bash
-conda activate CSI-LocalizationConformalPred9
-```
-
-Then navigate to the directory containing `pyproject.toml`:
+### 1.1 Recommended installation 
+Navigate to the directory containing `pyproject.toml`:
 
 ``` bash
 cd C:\path\to\trustworthy-uq
@@ -58,22 +49,7 @@ You can also check where Python loaded the package from:
 python -c "import trustworthy_uq; print(trustworthy_uq.__file__)"
 ```
 
-### 1.3 Verify that the correct Python environment is being used
-
-If the package imports in a terminal but not in an IDE such as Spyder,
-check the interpreter used by the IDE:
-
-``` python
-import sys
-print(sys.executable)
-
-import trustworthy_uq
-print(trustworthy_uq.__file__)
-```
-
-The first path must point to the intended virtual/Conda environment.
-
-### 1.4 Dependencies
+### 1.3 Dependencies
 
 The package declares these dependencies:
 
